@@ -16,4 +16,15 @@ Overall, Netflix's evolution from a DVD rental service to a global streaming gia
 4.What movie got the lowest popularity? what's its genre?
 5.Which year has the most filmmed movies?
 
+#Features
+
+Data cleaning and preprocessing (handling missing values, duplicates, and transformations). Exploratory Data Analysis (EDA) with descriptive statistics and visualizations. Insights extraction for data-driven decision-making Visualization using Matplotlib and Seaborn
+
+#Technologies Used
+Python
+Jupyter Notebook
+Pandas
+NumPy
+Matplotlib
+Seaborn
 
